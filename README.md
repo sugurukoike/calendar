@@ -4,7 +4,10 @@
 コンソール上で動くカレンダー表示のアプリケーションです。入力された年月のカレンダーをコンソール上に表示します。
 
 # DEMO
-https://user-images.githubusercontent.com/53923545/162456342-fa27e5b8-6b4a-4167-b1b5-c27ae8deb37c.mp4
+https://user-images.githubusercontent.com/53923545/162457689-8b720693-4a59-48d9-855b-7987fa99efd6.mov
+
+
+
 
 # Requirement
 C言語の実行環境
