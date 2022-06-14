@@ -14,7 +14,7 @@ C言語の実行環境
 
 # Usage
 ```bash
-git clone https://github.com/sugurukoike/calendar.git
+git clone https://github.com/suuu0122/calendar.git
 cd calendar
 ./calendar
 ```
